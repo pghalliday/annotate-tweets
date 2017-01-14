@@ -1,0 +1,4 @@
+{
+  "input_directory": "tweets",
+  "output_directory": "tweets-annotated"
+}
